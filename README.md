@@ -13,16 +13,14 @@ Interactive code for the series: [Medium – Understanding LLM](https://medium.c
 
 ## What's in here
 
-![interactive_theta1](interactive_theta1.gif)
-
-**Part 1 — What is a Model?**
-
 | File | Description |
 |---|---|
 | `part1/theta1.py` | One parameter. Learns `price = θ × size` from scratch. |
 | `part1/theta2.py` | Two parameters. Learns `price = θ₁ × size + θ₂`. Discovers a hidden base cost. |
 | `part1/interactive_theta1.py` | Drag a slider to find the right θ yourself. |
 | `part1/interactive_theta2.py` | Two sliders — find both θ₁ and θ₂ by hand. |
+
+![interactive_theta1](interactive_theta1.gif)
 
 ---
 
