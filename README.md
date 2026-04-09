@@ -20,8 +20,11 @@ Interactive code for the series: [Medium – Understanding LLM](https://medium.c
 | `part1/interactive_theta1.py` | Drag a slider to find the right θ yourself. |
 | `part1/interactive_theta2.py` | Two sliders — find both θ₁ and θ₂ by hand. |
 
-![interactive_theta1](interactive_theta1.gif)
-![interactive_theta2](interactive_theta2.gif)
+<p align="center">
+  <img src="interactive_theta1.gif" width="480" alt="Interactive demo: one parameter θ (slider)"><br><br>
+  <img src="interactive_theta2.gif" width="480" alt="Interactive demo: two parameters θ₁ and θ₂ (sliders)">
+</p>
+
 ---
 
 ## Setup
