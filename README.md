@@ -21,7 +21,7 @@ Interactive code for the series: [Medium – Understanding LLM](https://medium.c
 | `part1/interactive_theta2.py` | Two sliders — find both θ₁ and θ₂ by hand. |
 
 ![interactive_theta1](interactive_theta1.gif)
-
+![interactive_theta2](interactive_theta2.gif)
 ---
 
 ## Setup
@@ -45,8 +45,6 @@ python part1/interactive_theta2.py
 ```
 
 ---
-
-![interactive_theta2](interactive_theta2.gif)
 
 ## Series
 
