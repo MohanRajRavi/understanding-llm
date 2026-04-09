@@ -19,10 +19,10 @@ Interactive code for the series: [Medium – Understanding LLM](https://medium.c
 
 | File | Description |
 |---|---|
-| `theta1.py` | One parameter. Learns `price = θ × size` from scratch. |
-| `theta2.py` | Two parameters. Learns `price = θ₁ × size + θ₂`. Discovers a hidden base cost. |
-| `interactive_theta1.py` | Drag a slider to find the right θ yourself. |
-| `interactive_theta2.py` | Two sliders — find both θ₁ and θ₂ by hand. |
+| `part1/theta1.py` | One parameter. Learns `price = θ × size` from scratch. |
+| `part1/theta2.py` | Two parameters. Learns `price = θ₁ × size + θ₂`. Discovers a hidden base cost. |
+| `part1/interactive_theta1.py` | Drag a slider to find the right θ yourself. |
+| `part1/interactive_theta2.py` | Two sliders — find both θ₁ and θ₂ by hand. |
 
 ---
 
@@ -37,13 +37,13 @@ pip install numpy matplotlib
 ## Run
 
 ```bash
-# follow along with the blog
-python theta1.py
-python theta2.py
+# from repo root — follow along with the blog
+python part1/theta1.py
+python part1/theta2.py
 
 # play with it yourself (opens a window)
-python interactive_theta1.py
-python interactive_theta2.py
+python part1/interactive_theta1.py
+python part1/interactive_theta2.py
 ```
 
 ---
