@@ -1,13 +1,11 @@
-# understanding-llm
+# Understanding-llm
 
-Companion code for the Medium series **"Understanding LLM"** — written for complete beginners.
-
-📖 **Part 1:** [What is a Model?](https://medium.com/@YOUR_USERNAME)
+Interactive Code for the series - https://medium.com/@mohansujay22054044/58b20eddf2f4
 
 ---
 
 ## What's in here
-
+![interactive_theta1](interactive_theta1.gif)
 **Part 1 — What is a Model?**
 
 | File | Description |
@@ -17,8 +15,6 @@ Companion code for the Medium series **"Understanding LLM"** — written for com
 | `interactive_theta1.py` | Drag a slider to find the right θ yourself. |
 | `interactive_theta2.py` | Two sliders — find both θ₁ and θ₂ by hand. |
 
-![interactive_theta1](interactive_theta1.gif)
-![interactive_theta2](interactive_theta2.gif)
 
 ---
 
@@ -43,6 +39,7 @@ python interactive_theta2.py
 ```
 
 ---
+![interactive_theta2](interactive_theta2.gif)
 
 ## Series
 
@@ -55,4 +52,9 @@ python interactive_theta2.py
 
 ---
 
-Made by [Sujay](https://medium.com/@YOUR_USERNAME) — if this helped, leave a ⭐
+---
+
+<p align="center">
+  <img src="sujay_logo.png" width="80" alt="Sujay"><br>
+  Made by Mohan/Sujay ⭐
+</p>
