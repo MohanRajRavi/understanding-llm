@@ -17,6 +17,9 @@ Companion code for the Medium series **"Understanding LLM"** — written for com
 | `interactive_theta1.py` | Drag a slider to find the right θ yourself. |
 | `interactive_theta2.py` | Two sliders — find both θ₁ and θ₂ by hand. |
 
+![interactive_theta1](interactive_theta1.gif)
+![interactive_theta2](interactive_theta2.gif)
+
 ---
 
 ## Setup
