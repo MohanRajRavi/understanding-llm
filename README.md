@@ -13,16 +13,17 @@ Interactive code for the series: [Medium – Understanding LLM](https://medium.c
 
 ## What's in here
 
-![interactive_theta1](interactive_theta1.gif)
-
-**Part 1 — What is a Model?**
-
 | File | Description |
 |---|---|
-| `theta1.py` | One parameter. Learns `price = θ × size` from scratch. |
-| `theta2.py` | Two parameters. Learns `price = θ₁ × size + θ₂`. Discovers a hidden base cost. |
-| `interactive_theta1.py` | Drag a slider to find the right θ yourself. |
-| `interactive_theta2.py` | Two sliders — find both θ₁ and θ₂ by hand. |
+| `part1/theta1.py` | One parameter. Learns `price = θ × size` from scratch. |
+| `part1/theta2.py` | Two parameters. Learns `price = θ₁ × size + θ₂`. Discovers a hidden base cost. |
+| `part1/interactive_theta1.py` | Drag a slider to find the right θ yourself. |
+| `part1/interactive_theta2.py` | Two sliders — find both θ₁ and θ₂ by hand. |
+
+<p align="center">
+  <img src="interactive_theta1.gif" width="480" alt="Interactive demo: one parameter θ (slider)"><br><br>
+  <img src="interactive_theta2.gif" width="480" alt="Interactive demo: two parameters θ₁ and θ₂ (sliders)">
+</p>
 
 ---
 
@@ -37,24 +38,22 @@ pip install numpy matplotlib
 ## Run
 
 ```bash
-# follow along with the blog
-python theta1.py
-python theta2.py
+# from repo root — follow along with the blog
+python part1/theta1.py
+python part1/theta2.py
 
 # play with it yourself (opens a window)
-python interactive_theta1.py
-python interactive_theta2.py
+python part1/interactive_theta1.py
+python part1/interactive_theta2.py
 ```
 
 ---
-
-![interactive_theta2](interactive_theta2.gif)
 
 ## Series
 
 | Part | Topic | Status |
 |---|---|---|
-| Part 1 | What is a Model? | ✅ [Read on Medium](https://medium.com/@mohansujay22054044/58b20eddf2f4) |
+| Part 1 | What is a Model? | [Medium – Understanding LLM](https://medium.com/@mohansujay22054044/58b20eddf2f4) |
 | Part 2 | How Does a Model Read Words? | Coming soon |
 | Part 3 | What is Training Data? | Coming soon |
 | Part 4 | What Makes GPT Different? | Coming soon |
