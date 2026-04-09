@@ -54,7 +54,7 @@ python part1/interactive_theta2.py
 
 | Part | Topic | Status |
 |---|---|---|
-| Part 1 | What is a Model? | ✅ [Read on Medium](https://medium.com/@mohansujay22054044/58b20eddf2f4) |
+| Part 1 | What is a Model? | [Medium – Understanding LLM](https://medium.com/@mohansujay22054044/58b20eddf2f4) |
 | Part 2 | How Does a Model Read Words? | Coming soon |
 | Part 3 | What is Training Data? | Coming soon |
 | Part 4 | What Makes GPT Different? | Coming soon |
