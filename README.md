@@ -1,6 +1,6 @@
 # Understanding LLM
 
-Interactive code for the series: [Medium – Understanding LLM](https://medium.com/@mohansujay22054044/58b20eddf2f4)
+Interactive code for the series: [Medium – Understanding LLM](https://medium.com/@mohansujay22054044/understanding-llm-part-1-what-is-a-model-58b20eddf2f4)
 
 ## Table of contents
 
@@ -53,7 +53,7 @@ python part1/interactive_theta2.py
 
 | Part | Topic | Status |
 |---|---|---|
-| Part 1 | What is a Model? | [Medium – Understanding LLM](https://medium.com/@mohansujay22054044/58b20eddf2f4) |
+| Part 1 | What is a Model? | [Medium – Understanding LLM](https://medium.com/@mohansujay22054044/understanding-llm-part-1-what-is-a-model-58b20eddf2f4) |
 | Part 2 | How Does a Model Read Words? | Coming soon |
 | Part 3 | What is Training Data? | Coming soon |
 | Part 4 | What Makes GPT Different? | Coming soon |
